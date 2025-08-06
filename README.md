@@ -30,9 +30,7 @@ Medications and Prices:
 Enter your location (x y): 2 5
 
 Closest Facilities:
--------------------------
 Central Fill: 11 - $97.83, Medication_B, Distance 4
--------------------------
 Central Fill: 9 - $10.32, Medication_A, Distance 5
--------------------------
 Central Fill: 12 - $14.29, Medication_B, Distance 5
+
