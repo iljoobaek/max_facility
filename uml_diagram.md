@@ -58,10 +58,6 @@
 - `+` = Public methods
 - `-` = Private methods/attributes
 
-### **Key Design Patterns**
-1. **Encapsulation**: Private data members with public getters/setters
-2. **Composition**: Manager contains and manages facility objects
-3. **Single Responsibility**: Each class has a clear, focused purpose
 
 ### **Data Flow**
 1. `main()` creates `CentralFillFacilityManager`
@@ -74,3 +70,4 @@
 - `findTop3Facilities()` uses private `calculateDistance()`
 - `findCheapestMedication()` accesses facility's prices and medications
 - `setDistance()` allows manager to store calculated distances in facilities
+
